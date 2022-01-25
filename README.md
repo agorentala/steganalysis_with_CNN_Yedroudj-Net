@@ -20,7 +20,7 @@ The prelimilarly results show better steganalysis performances compared to the s
 
 **Graph**
 
-![Graph Visualization](files/img/Yedroudj-Net-Scheme.png)
+![Graph Visualization](caffe_version/files/img/Yedroudj-Net-Scheme.png)
 
 **Overall architectre:**
 Input image
