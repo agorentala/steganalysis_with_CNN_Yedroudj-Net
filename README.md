@@ -22,7 +22,7 @@ The prelimilarly results show better steganalysis performances compared to the s
 
 ![Graph Visualization](caffe_version/files/img/Yedroudj-Net-Scheme.png)
 
-**Overall architectre:**
+**Overall architecture:**
 Input image
 Size: 1 x 256 x 256
 
